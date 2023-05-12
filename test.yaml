@@ -21,4 +21,4 @@ jobs:
       script: |
         echo 'hello from test step'
 
-  - task: buildandreleasetask@0
+  - task: custom-jlin-test-task@0
