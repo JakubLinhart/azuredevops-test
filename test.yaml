@@ -20,3 +20,5 @@ jobs:
       targetType: 'inline'
       script: |
         echo 'hello from test step'
+
+  - task: jlin-test-task
