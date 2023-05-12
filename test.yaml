@@ -21,4 +21,4 @@ jobs:
       script: |
         echo 'hello from test step'
 
-  - task: custom-jlin-test-task@0
+  - task: DownloadLatestArtifact@0
