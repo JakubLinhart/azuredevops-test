@@ -21,4 +21,4 @@ jobs:
       script: |
         echo 'hello from test step'
 
-  - task: jlin-test-task
+  - task: jlin-test-task@0
